@@ -1,0 +1,3 @@
+<?php
+// caretaker/resolve.php
+?>
